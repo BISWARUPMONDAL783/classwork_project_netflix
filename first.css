@@ -1,0 +1,113 @@
+
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    
+}
+#first{
+    background-image: url(/netflexback.png);
+    height: 600px;
+}
+#navbar{
+    height: 6rem;
+    display: flex;
+   
+
+}
+img{
+    height: 55px;
+    padding-left: 30px;
+    padding-top: 25px;
+}
+#lang{
+    height: 2rem;
+    width: 110px;
+    background-color: transparent;
+    color: white;
+    text-align: center;
+    border-radius: 8px;
+    margin-top: 30px;
+   margin-left: 800px;
+
+}
+button{
+    height: 2rem;
+    width: 80px;
+    font-size: 15px;
+    font-weight: 1rem;
+    color:white;
+    background-color:rgb(193, 17, 25);
+    border-radius: 8px;
+    border:red;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+ h1{
+    color: white;
+    font-size: 3rem;
+    font-weight: 900;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+ }
+ .contaner{
+ 
+    color:white;
+   padding-top: 100px;
+   text-align: center;
+ }
+ p{
+    font-size: 1.5rem;
+    font-weight: 400;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+   
+ }
+ .mail{
+    height: 3rem;
+    width:100%;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    
+
+ }
+.mail-1{
+    height:3rem;
+    width:400px;
+    border-radius: 5px;
+    background-color: transparent;
+    color: white;
+    font-size: 15px;
+    border: 1px silver solid ;
+}
+.get{
+    height: 3rem;
+    width: 200px;
+}
+
+ 
+#firstone{
+    background: rgb(0 0 0 / 40%);
+}
+#outside{
+    height: 600px;
+    width: auto;
+    background-color: black;
+    margin-top: 155px;
+    display: flex;
+
+}
+firsttag{
+
+}
+.secondtag{
+background-image: url(/tv\ N.png);
+background-repeat: no-repeat;
+background-size: contain;
+width:600px;
+height: 400px;
+margin-left: 20%;
+}
+
+    
